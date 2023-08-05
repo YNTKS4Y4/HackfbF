@@ -1378,9 +1378,6 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 https://daddyhd.mammothtv.workers.dev/dash-wv/linear/2603/default_primary.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxsGb9aZY7ao02hjfE-9mQGw-S-pqvhmL64w&usqp=CAU" group-title="BEIN GROUP HD", BEIN MOONBUG
-http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=31488_&extension=ts
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxsGb9aZY7ao02hjfE-9mQGw-S-pqvhmL64w&usqp=CAU" group-title="BEIN GROUP HD", BEIN MOONBUG
 http://backup.xp1.tv:80/play/live.php?mac=00:1A:79:C0:17:5D&stream=33201_&extension=ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRImdmcwMXL7b_JyGjJEsRK4yq8TTIz2pw6hg&usqp=CAU" group-title="BEIN GROUP HD", BEIN MOVIE FAMILY
