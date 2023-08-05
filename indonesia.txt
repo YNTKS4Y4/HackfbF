@@ -1013,10 +1013,11 @@ http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/197968
 #EXTINF:0 tvg-id="BBCEarth.Id" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="Knowledge",BBC Earth
 https://anevia114.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="AnimalPlanet.Id" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Knowledge",Animal Planet
-https://anevia114.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd
+http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/index.m3u8
+
+#EXTINF:0 tvg-id="AnimalPlanet.Id" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Knowledge",Animal Planet 
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/157532
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
