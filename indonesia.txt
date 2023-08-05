@@ -1019,6 +1019,9 @@ http://edge.linknetott.swiftserve.com/channelgroup2/cg206production/ch31/index.m
 #EXTINF:0 tvg-id="AnimalPlanet.Id" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/32ae863c9590a45b0a4f899c42c8b465.png" group-title="Knowledge",Animal Planet 
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/157532
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0TWjyg_Euexmhqr4vltgCCL4Z4A6ngKa7bA&usqp=CAU" group-title="Knowledge",LOVE NATURE
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch368)/index.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="NationalGeographic.Id" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/63e2ef1897448dd9519000543c357037.png" group-title="Knowledge",Nat Geo Channel
