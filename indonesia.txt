@@ -81,7 +81,7 @@ http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/528
 
 #EXTINF:0 tvg-id="" tvg-name="mutv" tvg-logo="https://vectrostudio.com/wp-content/uploads/2020/01/Manchester-United-Logo_vectrostudio.jpg" group-title="SPORT PREMIUM",MUTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
-http://45.129.133.15:8080/kingtveuex/lAEPMRIE4jqjMamv/1102
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="madridtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTXEOPCJYtJAr4z5bNyse3M38lHro6GrKYNg&usqp=CAU" group-title="SPORT PREMIUM",REAL MADRID TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
