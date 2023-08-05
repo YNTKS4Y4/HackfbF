@@ -10,7 +10,7 @@ https://github.com/YNTKS4Y4/IPTV/raw/main/20230629_1842091.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
 https://github.com/YNTKS4Y4/IPTV/raw/main/TERIMAKASIH%20UDH%20DONASI.mp4
 
-#EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4mD1CKTu0Eya-Ml2VSM-oyPQr8xZe0aBU6A&usqp=CAU" group-title="LIVE 24 JAM",CHILL SONG 🪐
+#EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://i.ytimg.com/vi/Vo-2noOnBcY/hqdefault.jpg" group-title="LIVE 24 JAM",CHILL SONG 🪐
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1691282621/ei/XZjOZPXuHoPCpgfY67HgCQ/ip/223.255.231.135/id/Vo-2noOnBcY.1/source/yt_live_broadcast/requiressl/yes/tx/45170058/txs/45170058%2C45170059/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/siu/1/spc/UWF9fwgbbOXy6o89KPn--fv2UFW-geo-kiX8IiutBQO1Owh6QZI-qYM/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C51000013/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAKLaTIoh7qJic-jXW7pj-5QqQ68Jt1rh09XVE8ja97hpAiAmc2Z7Km16nBQ3tx-ACXXLDATy8TUxymLEvPftxbUoKw%3D%3D/file/index.m3u8
 
