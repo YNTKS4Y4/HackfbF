@@ -26,23 +26,23 @@ https://redirector.googlevideo.com/videoplayback?expire=1691322397&ei=vTPPZKShJ9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
 https://rr5---sn-nja7snle.googlevideo.com/videoplayback?expire=1691323360&ei=gDfPZIyiGpaNv_IP1cKoyAY&ip=104.28.227.1&id=o-ADxiY1UziPOyj4xbyyHEvqM74RARZy06QMo3bx99RXpC&itag=18&source=youtube&requiressl=yes&mh=8f&mm=31%2C26&mn=sn-nja7snle%2Csn-a5meknd6&ms=au%2Conr&mv=m&mvi=5&pl=24&initcwndbps=2185000&spc=UWF9f6RV5XfKZnQ-wRWDhvcnSEACZQ4&vprv=1&svpuc=1&mime=video%2Fmp4&gir=yes&clen=3716354995&ratebypass=yes&dur=42898.401&lmt=1691272092479619&mt=1691301461&fvip=5&fexp=24007246%2C24362685%2C24363393&beids=24350018&c=ANDROID&txp=7309224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAP4OGH_2_oxvdLKBQP0Z8C27AzR6FAoOq1QHkv_lcRnaAiAHKXo4t2hJgrQHVzwsYoQGUcVaw9Ijro8chDi_nMaudw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgblRdi8LVFOFgSrL9U_ez3oR8CPuQNNHmqqGmt4I7HBYCIQDTaiQDcNPvc_bxG-RTIcU5D7WLDMDYyPQvWHjettjJlA%3D%3D&title=www.ytmp4.Net---%F0%9F%94%A5%20Cozy%20Fireplace%204K%20%28LIVE%2024%2F7%29.%20Relaxing%20Fire%20Burning%20Video%20%26%20Crackling%20Fireplace%20Sounds--(360p)
 
-#EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqRNoxczIidD9W5qxKqu7bubecl-4_MP2GDQ&usqp=CAU"LIVE 24 JAM",AQUARIUS MUSIKINDO
+#EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqRNoxczIidD9W5qxKqu7bubecl-4_MP2GDQ&usqp=CAU" group-title="LIVE 24 JAM",AQUARIUS MUSIKINDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
 https://raw.githubusercontent.com/thefirefox12537/streams/master/akuarius.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxIaWVhXcGIjZfUsJZame5tlUx9fTRjDjIGg&usqp=CAU"LIVE 24 JAM",MUSICA STUDIOS
+#EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxIaWVhXcGIjZfUsJZame5tlUx9fTRjDjIGg&usqp=CAU" group-title="LIVE 24 JAM",MUSICA STUDIOS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
 https://github.com/thefirefox12537/streams/raw/master/musika.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSalsWGIXaCcEIyIO7YmTCQy4oG66HJv8IG7g&usqp=CAU"LIVE 24 JAM",NAGASWARA KOPLO
+#EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSalsWGIXaCcEIyIO7YmTCQy4oG66HJv8IG7g&usqp=CAU" group-title="LIVE 24 JAM",NAGASWARA KOPLO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
 https://github.com/thefirefox12537/streams/raw/master/nagaswarakoplo.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSalsWGIXaCcEIyIO7YmTCQy4oG66HJv8IG7g&usqp=CAU"LIVE 24 JAM",NAGASWARA DENSDUT
+#EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSalsWGIXaCcEIyIO7YmTCQy4oG66HJv8IG7g&usqp=CAU" group-title="LIVE 24 JAM",NAGASWARA DENSDUT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
 https://github.com/thefirefox12537/streams/raw/master/nagaswaradensdut.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSalsWGIXaCcEIyIO7YmTCQy4oG66HJv8IG7g&usqp=CAU"LIVE 24 JAM",NAGASWARA POP
+#EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSalsWGIXaCcEIyIO7YmTCQy4oG66HJv8IG7g&usqp=CAU" group-title="LIVE 24 JAM",NAGASWARA POP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
 https://github.com/thefirefox12537/streams/raw/master/nagaswarapop.m3u8
 
@@ -87,7 +87,7 @@ https://op-group2-swiftservesd-1.dens.tv/s/s28/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
 https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="saudiid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrO8vjb0DvpmGFLj0TwydVij4snCnaezlunQ&usqp=CAU" group-title="Religi",Ashiil Tv
+#EXTINF:0 tvg-id="" tvg-name="saudiid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrO8vjb0DvpmGFLj0TwydVij4snCnaezlunQ&usqp=CAU" group-title="Religi",Izzah Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
 
