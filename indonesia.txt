@@ -609,6 +609,15 @@ http://rr.dens.tv/h/h194/index.m3u8
 https://anevia114.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 #EXTINF:-1 group-title="Movies" tvg-id="zeeactionhd.in" tvg-logo="https://i.postimg.cc/XvBJ2SK1/zeeaction.png",Zee Action
 http://208.86.19.13:81/7288.stream/index.m3u8
+
+#EXTINF:0 tvg-id="FLIKID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE_RshNZ-RVYw2fxklkd-uy2qI3XIra1dFJA&usqp=CAU" group-title="Movies",FLIK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/165095
+
+#EXTINF:0 tvg-id="CINEMAZEE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR9O9IQHez_TWhJws-HTDb3zRskmprSB7itQ&usqp=CAU" group-title="Movies",ZEE CINEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
+http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/1350
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 group-title="Movies" tvg-logo="https://i.ibb.co/FBh90tp/ROCK-ENTERTAIMENT.png",Rock Entertainment
