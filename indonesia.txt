@@ -200,6 +200,10 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w1688571713.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
+#EXTINF:0 tvg-id="denaitvid" group-title="Lokal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK2jkBNk-IMObJYmmDT4xFlypexdbMcE-b44SSyI0LmY1ZKwKAET8T_NDc&s=10",DENAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
+https://video-weaver.jkt02.hls.ttvnw.net/v1/playlist/CukFmlVXUcd3Vv93LBt3dgH03XBcK8i2tFy090dSkNwBVK9-zL6sN8xFC0DOdummPxB7xIgU84fFBqV99IbXgebKOBEQI4aSbMRqq1iONNn7V0U56Z7RXeyturRrlNx64gWnlskupQWodilGPDH4owQYPPKQcHoh6gEj5bwISu8OTk-x14hV4rui9L5vrSm4r-Ne58Tubn8Da9mUjafkUY-geJab2YNAqU7Lv4oChQ8anPYvYQ6_IoYlpXgBkoaCkmvc5d9QNCvdZEg2GzDii4jXFHERjaKNvTwyLonk8gCnYtvf7t6Q_tBkwVvJQl8c_0OHApKL8xznHuQngYPOYLyHKtPvo2Hp4U4vNOXSGPQxNjMfeQq3yswY25jpdPnptFp8SPII8P-OZHwoPqG-Hr-NhjZJXK53uiAj5TGmTi5rRyn1ZGki4QqOxBPzzUTX507klQJmFGPsq2AmfCUVIN0PiaulOSnbDtOtjwHYO-3dnXMLBHbCDsGIy53Tp8AmprfxfDUqoNWqjXtuYyfocvy5-nKMrTjbkMhO11PmLoYp-n8eCLFjaQHtFdw77eB1_IG7r7OnFHUWN6YTOGOTkBypdMVzXlp395ftp_w99PdgHmt3HfXUicYcS92jkxOJGR8YYPh15RvTb9nO1nyOd_e05cpn0eNituLua1XfHnySolUxwjDpgTWEZZTaVsGWwonHTWLGfM8A26BYvybZmsvgAu4m3DCJrctdIR-3TXBWoo665uW48ecKvOxC7rIrNDFUcMFi7XPsf2LWiFEDTwa5RzCa2oxygnL25hnnXZdWTGEnIXUuuqBcfD5PxtfN3QDWDPVc7P0kLDkAytA4ThNv2fQpfvtM21QN7vT-evb0Mjts5m1PY1Nvmxaz1SNh4IJBgvul6_qc-KXaXQJGVyLUQjdfVfxqpyuMbQs0BUZT3CUf-5FFH-7rQ4LXcJ8q0H0ABn79r0n5lRN4wWbL4eunNVfUpG6mx-7asBoMZLGBC9giQ0dSQpMeIAEqCXVzLXdlc3QtMjCdBw.m3u8
+
 #EXTINF:0 tvg-id="garudatvid" group-title="Lokal" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCz5p7Ar02lg5gbjVq4YXF7fRxAiSGYLeTcA&usqp=CAU",GARUDA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
