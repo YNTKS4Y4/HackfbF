@@ -102,7 +102,7 @@ http://37.49.229.56:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/280133
 http://37.49.229.56:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/280135
 #EXTINF:0 tvg-id="" tvg-name="SA: SSC Extra 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b1eaee47e28f8f791d395cc621513a1a.png" group-title="SPORT PREMIUM",SSC Extra 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
-http://shareext@line.linedigitaltv.com/play/live.php?mac=00:1A:79:BF:F1:21&stream=1002797&extension=ts&shareext@sscExtra1
+https://tinyurl.com/alnasrVs
 #EXTINF:0 tvg-id="" tvg-name="SA: SSC Extra 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/290ace6ad49730b00a3a566470082a4e.png" group-title="SPORT PREMIUM",SSC Extra 2. 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
 http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/375065
