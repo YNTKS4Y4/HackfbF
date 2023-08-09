@@ -94,6 +94,18 @@ http://37.49.229.56:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/280137
 #EXTINF:0 tvg-id="" tvg-name="ss3" tvg-logo="https://yt3.googleusercontent.com/7KCyLUN6LidKfNfN6KozO_ZwaF-g21xPFLO0BDaUYsWWeY2QVhKB_qJhHw4jvwUQkg-6GXw1qg=s900-c-k-c0x00ffffff-no-rj" group-title="SPORT PREMIUM",SSC 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
 http://37.49.229.56:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/280134
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/dd5b9adc01f4d38a7291c8e042ef6199.png" group-title="SPORT PREMIUM",SSC 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
+http://37.49.229.56:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/280133
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/d63c25015229cb9dacd15a8562ead20a.png" group-title="SPORT PREMIUM",SSC 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
+http://37.49.229.56:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/280135
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC Extra 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b1eaee47e28f8f791d395cc621513a1a.png" group-title="SPORT PREMIUM",SSC Extra 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
+http://37.49.229.56:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/280136
+#EXTINF:-1 tvg-id="" tvg-name="SA: SSC Extra 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/290ace6ad49730b00a3a566470082a4e.png" group-title="SPORT PREMIUM",SSC Extra 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
+http://37.49.229.56:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/281462
 
 #EXTINF:0 tvg-id="" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/2560px-2015_Fox_Sports_1_logo.svg.png" group-title="SPORT PREMIUM",FS1
 http://37.49.229.56:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/756
