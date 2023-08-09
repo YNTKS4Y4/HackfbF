@@ -102,10 +102,10 @@ http://37.49.229.56:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/280133
 http://37.49.229.56:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/280135
 #EXTINF:-1 tvg-id="" tvg-name="SA: SSC Extra 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/b1eaee47e28f8f791d395cc621513a1a.png" group-title="SPORT PREMIUM",SSC Extra 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
-http://37.49.229.56:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/280136
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/375064
 #EXTINF:-1 tvg-id="" tvg-name="SA: SSC Extra 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/290ace6ad49730b00a3a566470082a4e.png" group-title="SPORT PREMIUM",SSC Extra 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
-http://37.49.229.56:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/281462
+http://dmtn.tv:8080/ultraser723/qBS9VfE4vC/375065
 
 #EXTINF:0 tvg-id="" tvg-name="FS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/2560px-2015_Fox_Sports_1_logo.svg.png" group-title="SPORT PREMIUM",FS1
 http://37.49.229.56:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/756
