@@ -1197,6 +1197,34 @@ https://anevia114.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
 #EXTINF:0 tvg-id="TVMu.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDifUmWgeW4gyKBramxKL6VYJcSnONgynAuA&usqp=CAU" group-title="Religi",TVMU
 https://anevia114.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
 
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/qoerty1659622111.png" group-title="SPORT PREMIUM",HUB PREMIER 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1032529&extension=ts&play_token=g75CjvYlU7
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/sdvs4u1659622094.png" group-title="SPORT PREMIUM",HUB PREMIER 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1032528&extension=ts&play_token=g75CjvYlU7
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://icdb.tv/images/8c8204b53739b7fb8deb645245288011.jpg" group-title="SPORT PREMIUM",HUB PREMIER 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1032527&extension=ts&play_token=g75CjvYlU7
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/emwu7x1659622075.png" group-title="SPORT PREMIUM",HUB PREMIER 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1032526&extension=ts&play_token=g75CjvYlU7
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/b/b1/HubSports_1.png/revision/latest?cb=20190619114530" group-title="SPORT PREMIUM",HUB SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1110667&extension=ts&play_token=0duhKfW95f
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/2/25/HubSports_2.png/revision/latest/scale-to-width-down/200?cb=20190619114541" group-title="SPORT PREMIUM",HUB SPORT 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1110666&extension=ts&play_token=0duhKfW95f
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQJ3OxFBgBsk9Is7HavfFI2riQ93dvnYrUAvsxJxZprKyfkf7sw" group-title="SPORT PREMIUM",HUB SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
+http://source.strictv.com/play/live.php?mac=00:1a:79:11:22:31&stream=1110665&extension=ts&play_token=0duhKfW95f
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:0 tvg-id="TawafTV.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG8VLcjGo8HtLhdQoD9WOHXd8KzcQzQAq7zQ&usqp=CAU" group-title="Religi",Tawaf TV
