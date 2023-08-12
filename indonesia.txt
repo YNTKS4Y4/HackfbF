@@ -121,19 +121,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
 
 #EXTINF:-1 tvg-id="AstroUHD.my" tvg-name="Astro UHD" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png" group-title="League Premier",Premier league 1
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"eupDzZPCSqmDTstJhPf9Wg","kid":"IvvvHBzXJek5fsFkVfCCEA"}],"type":"temporary"}
 https://1.yurend.xyz/dash-wv/linear/1601/default_primary.mpd
-
-#EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png"  group-title="League Premier",Premier league 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"TxVBP35HZ7UMSOGbf5ovzA","kid":"90mrcfInmZv7CY9zNZqsEA"}],"type":"temporary"}
-https://quiet-rain-1d8f.wkwkw.workers.dev/staging-linearjitp-playback.astro.com.my/dash-wv/linear/601/default_primary.mpd
-**https://astrompd2.thescript2.workers.dev/dash-wv/linear/601/default_primary.mpd
 
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png" group-title="League Premier",Premier league 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.43
@@ -145,12 +133,7 @@ https://webudit.cdnhks.lol/lb/premium124/index.m3u8
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.cdnhks.lol/lb/premium125/index.m3u8
 
-
 #EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="Astro SuperSport 4" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png" group-title="League Premier",Premier league 5 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kf6+hDwIx8xSPv2CcpLkDg","kid":"efQChzCsypq4sA8mFY3bEA"}],"type":"temporary"}
 https://1.yurend.xyz/dash-wv/linear/2506/default_primary.mpd
 
 #EXTINF:-1 group-title="LaLiga" tvg-id="daznlaliga.es" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9r-scyW7m8n9nODmjP3D8bYZTKTy1hckyFg&usqp=CAU",DAZN LaLiga 
