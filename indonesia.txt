@@ -10,20 +10,6 @@ https://github.com/YNTKS4Y4/IPTV/raw/main/20230629_1842091.mp4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
 https://github.com/YNTKS4Y4/IPTV/raw/main/TERIMAKASIH%20UDH%20DONASI.mp4
 
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvIcG6I1hxqODZmTrFwobf3z6iV296XonlSw&usqp=CAU" group-title="LIVE EVENT",ARRC ROUND 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
-https://etslive-app.vidio.com/live/9453/master.m3u8?auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdkVnY1NHd1JaQmZqbEFRRjE5QkN1YXMrZC9DWitEbDcvbTYwWjM5bWh0Q2V0aEh1M2VVWTBEellzTWZtVFZjWW5HR1lSV0JnS2ZvTytlb0RzUWhEK1daREk1VWQ0RzRib3p4c0h3KzlNYnBVUGgxN2hUK2tCeldrSlN3SWdzaThkaXNXQnJCcHNKZTFMb3hmYzV2OUt0Y1lLZTRObVF1RzYzRHZqa3NEZ0ErTzd6UjVYdlFtdDluTWtCazJhMFdDSDVGQ2tuSG42b3k0b3M3M3llQlBZc0FnVU1BWVJGMWVGTVlVQ1ZyU3hEOGFQUnQ3bWNiSktudDczOHUxOS8vZWNjWFhpOWxzVVhUWmVjMkhFUjJaUEkzOHRnSUE3cnhiSEg1TzhNbnhYWXR2QnBCUU85QjZGZTBRdHE5REljbEZCUktNTFJyNlJ5UGdWYkh1Y2FhcFJtVm9WK1JFUGpaK3l1VDJ6Z1REU2haLytaTnM1MFhZZmc0M0tDdUMyRVZMNDJ6ZDM3WEJQa2NobGJBWnNlaStBZEFaVTZoV0JWZ2ZHcWtvZWV5Tnp3b1cyb2VKMFA0VHRrZmpTazNuaEtwSUNuTkdvM1ZYd2lVREQrQlZleXNNKzRZQk11RlF5eWJMSGwzWGNZS2ErckxLeVM4RmZzWHc5OEw0ajEwTE42aWJLQmw4N2JrblpHZDRjNTFrMWtXNGVKbHIzUzVTdHVldXVYY09tQ0RqN0JHZGxtek5wUGJXUXQ2TWNVNjljTUlGQmxoejJFUkw1aVZ4RUcvanJxVFdZTEJYRkJWTmQ0R0VxMmJxVUV2b01SRFkzVFM0QjNkS2hVdUNqL1hMd3JGTDMzcklvRjEzbXlSZkhIcWllbnY2bUI0YnEzNFpRWjJVWW5jSU9BN2FCTHRsODRRdVBXTjZsa3ZFTzhkWjBqcEhSV2MyUFp5T3hleUIrWkRmeS84VWJ6dz09&trace_id=7d5bf3c64064d9367d27bc7203453125
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvIcG6I1hxqODZmTrFwobf3z6iV296XonlSw&usqp=CAU" group-title="LIVE EVENT",ARRC ROUND 4  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
-https://anevia114.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
-
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvIcG6I1hxqODZmTrFwobf3z6iV296XonlSw&usqp=CAU" group-title="LIVE EVENT",ARRC ROUND 4 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
-http://37.49.229.56:8080/kingtveuex/lAEPMRIE4jqjMamv/298570
-
 #EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqRNoxczIidD9W5qxKqu7bubecl-4_MP2GDQ&usqp=CAU" group-title="LIVE 24 JAM",AQUARIUS MUSIKINDO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
 https://raw.githubusercontent.com/thefirefox12537/streams/master/akuarius.m3u8
