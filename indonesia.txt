@@ -121,6 +121,30 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
 
+#EXTINF:0 tvg-id="" tvg-name="alriyadh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamQlYUMT05jaKHYqex1YVKzjydH0sGuwMIA&usqp=CAU" group-title="Liga Roshn Saudi",SPOTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
+https://anevia114.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#EXTINF:0 tvg-id="" tvg-name="alriyadh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamQlYUMT05jaKHYqex1YVKzjydH0sGuwMIA&usqp=CAU" group-title="Liga Roshn Saudi",SPOTV 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
+http://37.49.229.56:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298570
+
+#EXTINF:0 tvg-id="" tvg-name="alriyadh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamQlYUMT05jaKHYqex1YVKzjydH0sGuwMIA&usqp=CAU" group-title="Liga Roshn Saudi",SSC 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
+http://37.49.229.56:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/280132
+
+#EXTINF:0 tvg-id="" tvg-name="alriyadh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamQlYUMT05jaKHYqex1YVKzjydH0sGuwMIA&usqp=CAU" group-title="Liga Roshn Saudi",DAZN 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
+http://37.49.229.56:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/2387
+
+#EXTINF:0 tvg-id="" tvg-name="alriyadh" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamQlYUMT05jaKHYqex1YVKzjydH0sGuwMIA&usqp=CAU" group-title="Liga Roshn Saudi",DAZN 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0 
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-018/stream.mpd 
+
 #EXTINF:-1 tvg-id="AstroUHD.my" tvg-name="Astro UHD" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/EnglishPremierLeague.png" group-title="League Premier",Premier league 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
