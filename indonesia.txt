@@ -70,6 +70,21 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/sctv.png" group-title="nasional" tvg-id="SCTV.id",SCTV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
+#EXTINF:-1 group-title="SPORT PREMIUM" tvg-id="playsports.be" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Play_Sports_alt.svg/revision/latest/scale-to-width-down/1200?cb=20200502200524",PLAY SPORTS 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey	
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-051/stream.mpd
+
+#EXTINF:-1 group-title="SPORT PREMIUM" tvg-id="playsports.be" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Play_Sports_alt.svg/revision/latest/scale-to-width-down/1200?cb=20200502200524",PLAY SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey	
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-052/stream.mpd
+
+#EXTINF:-1 group-title="SPORT PREMIUM" tvg-id="playsports.be" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Play_Sports_alt.svg/revision/latest/scale-to-width-down/1200?cb=20200502200524",PLAY SPORTS 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey	
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-053/stream.mpd
+
 #EXTINF:0 tvg-id="" tvg-name="denshplyid" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMjERIlEnFlk1sLpiMrwO49yLvMG1q9Y2Y-Q&usqp=CAU" group-title="SPORT PREMIUM",Dens Play
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
 https://op-group1-swiftservesd-1.dens.tv/s/s37/index.m3u8?app_type=web&userid=79q90jvkpcn&tkn=SOMEZ6Y2ES0ZNQ10R8FVKNTI5V33OE67&chname=DensPlay
