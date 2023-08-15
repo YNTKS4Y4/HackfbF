@@ -70,6 +70,15 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #EXTINF:0 tvg-logo="https://logo.iptveditor.com/sctv.png" group-title="nasional" tvg-id="SCTV.id",SCTV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
+#EXTINF:-1 tvg-id="raisportplus.it" tvg-name="IT: Rai Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2022-01/656ac05b7c17f067a65253e268e8dde8.png" group-title="SPORT PREMIUM",Rai Sport
+http://37.49.229.56:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1042
+#EXTINF:-1 tvg-id="" tvg-name="IT: ACI Sport TV" tvg-logo="http://s3.i3ns.net/portal/picon/2023-06/c44034500f012d8de75ae9ec5aa242a0.png" group-title="SPORT PREMIUM",ACI Sport TV
+http://37.49.229.56:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/298813
+#EXTINF:-1 tvg-id="eurosport.it" tvg-name="IT: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/426ce2325be2e503a274c96fc8886fc3.png" group-title="SPORT PREMIUM",EUROSPORT 1 >ITA
+http://37.49.229.56:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/995
+#EXTINF:-1 tvg-id="eurosport2.it" tvg-name="IT: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c98551542cf8982297c36a788a9f188f.png" group-title="SPORT PREMIUM",EUROSPORT 2 >ITA
+http://37.49.229.56:8080/F17744/5ot8nAqujISZ7GlMgOniGCqG8hLLj167/1040
+
 #EXTINF:-1 group-title="SPORT PREMIUM" tvg-id="playsports.be" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Play_Sports_alt.svg/revision/latest/scale-to-width-down/1200?cb=20200502200524",PLAY SPORTS 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey	
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
