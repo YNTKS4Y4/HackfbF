@@ -854,6 +854,12 @@ http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/165082
 #EXTINF:0 tvg-id="" tvg-name="Cinemax" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Movies",Cinemax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/197964
+
+#EXTINF:0 tvg-id="" tvg-name="Cinemax" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="Movies",Cinemax 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://yang-nyuri-bintitan.openwindows037.workers.dev/
+https://cdnjkt2.transvision.co.id:1001/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
+
 #EXTINF:0 tvg-id="" tvg-name="Citra Bioskop" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/582b49165511b164bcca3bc14a8c5b6d.png" group-title="Movies",Citra Bioskop
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
 http://37.49.229.56:8080/googleiptvex/8XsdD8qVstQhcjuy/298519
