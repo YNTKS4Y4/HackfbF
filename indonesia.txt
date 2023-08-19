@@ -49,7 +49,7 @@ http://103.166.27.2:800/play/a016
 
 #EXTINF:-1 group-title="BRI LIGA 1" tvg-id="indosiar.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1 (A)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://194.233.78.163:8585/live/4097AEAA126257A1F96E6AFEF2686939/4535.ts
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162138
 
 #EXTINF:-1 group-title="BRI LIGA 1" tvg-id="mncsports3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt-v4TeFYINqp_QrBomonTtYsl0gKsO4jjcg&usqp=CAU",Liga 1 (B)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -359,7 +359,7 @@ http://37.49.229.56:8080/linuxapp2021/zdFTTQCKXWq84YWF/298549
 
 #EXTINF:0 tvg-id="IndoiarIDFHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx0syEHE7DbzWTfL2g1UvYAnECr7BNrDy57Q&usqp=CAU" group-title="BRI LIGA 1",INDOSIAR  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
-http://37.49.229.56:8080/linuxapp2021/zdFTTQCKXWq84YWF/162138
+http://gamsgo.cyou:8080/Vladisergeevic/7eef2c4388/162138
 
 #EXTINF:0 tvg-id="duialainid" group-title="nasional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJCNclAm1SEerWRjS-m65s_fw6WRMl1TyPAA&usqp=CAU",DUNIA LAIN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/37.49.229.56 Safari/537.36 CrKey/1.54.248666
