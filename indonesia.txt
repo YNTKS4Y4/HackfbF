@@ -341,7 +341,7 @@ http://rr2.dens.tv/s/s03/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341
 #EXTINF:0 tvg-id="RCTI" group-title="nasional" tvg-logo="https://static.mncnow.id/images/channel/e8b7a6a8/f009.png",RCTI
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157591
 
-#EXTINF:0 tvg-id="RCTIid" group-title="nasional" https://static.mncnow.id/images/channel/e8b7a6a8/f009.png",RCTI 
+#EXTINF:0 tvg-id="RCTIid" group-title="nasional" tvg-logo="https://static.mncnow.id/images/channel/e8b7a6a8/f009.png",RCTI 
 http://aflaxtv.xyz:8080/kingtveuex/lAEPMRIE4jqjMamv/157591
 
 #EXTINF:0 tvg-id="IndoiarIDFbHD" tvg-logo="https://static.visionplus.id/images/channel/c925848d-93c.png" group-title="nasional",INDOSIAR HD
