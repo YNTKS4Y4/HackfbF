@@ -30,7 +30,7 @@ https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
 https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0LTTaxyG5BeJSXWcrw3O0hn-V3rtVPcyVOA&usqp=CAU" group-title="AFF U23",SCTV
-http://xtv.ooo:8080/88876776555/87677666654/351030
+https://kametv.my.id/putar/digital/sctv.php
 
 #EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0LTTaxyG5BeJSXWcrw3O0hn-V3rtVPcyVOA&usqp=CAU" group-title="AFF U23",VTV  
 http://171.238.181.52:18080/194_1.m3u8?AdaptiveType=HLS
