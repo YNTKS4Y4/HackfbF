@@ -33,10 +33,8 @@ https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
 https://kametv.my.id/putar/digital/sctv.php
 
 #EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0LTTaxyG5BeJSXWcrw3O0hn-V3rtVPcyVOA&usqp=CAU" group-title="AFF U23",SCTV 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctv1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
 https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498f6eb7504c4028f/index.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0LTTaxyG5BeJSXWcrw3O0hn-V3rtVPcyVOA&usqp=CAU" group-title="AFF U23",VTV  
