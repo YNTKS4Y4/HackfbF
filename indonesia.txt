@@ -32,6 +32,9 @@ https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0LTTaxyG5BeJSXWcrw3O0hn-V3rtVPcyVOA&usqp=CAU" group-title="AFF U23",SCTV
 https://kametv.my.id/putar/digital/sctv.php
 
+#EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0LTTaxyG5BeJSXWcrw3O0hn-V3rtVPcyVOA&usqp=CAU" group-title="AFF U23",SCTV 
+https://etslive-app.vidio.com/live/204/master.m3u8?auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdkpxbHVJOW5XaTlPR2w2Q2lzM3R6ekh6OFY5a2VjQXJJV1d4bGc5OVNoZ0dlc0UyR3Z2OTVyaHRXR1gwbnRzK1dQL3NIOU1QL1kxN0FjUmsxdzIzNnphMGEvTHZ1OWt3cFlZNnNBeTkrQVEzckxlRU50Nm9GNmtJMityOUJQQmZCUUFNZzRrT0xKNHlTS0l4VXhaaUYyK1RaLzljQnlRd1pOSHZ2WHdJMzNYc2g0Tm4zR0JmcHN4UnFIZ2VxNW5oQ2VVZHUzOXlRajVFVVZpdHRUQUQyUFFiWUNUdEZtbkJESjJOcVJhWVRqQ09rL2ZNbzY1MUVxUGpxclBpU3AxZEFhR0QzNkZaWFVDd2lzK2JxZUlmVmZsRU82NWpHQzV6RXQ0dkFyRm5WdnFFaGY4bjV2cFlSdm0za2txZDN3NVdiWS85QUlham4vcE5LVmlSbWw1U2w1NGxNczAwcVRQZmkycWdNdzlwWkZKOGNRN0IrNlpIbTlsWkV0MVFwR1M0MUttY3dGRGpzR0toRkVkZkpmSy9UZzQvUFpuSXlCeVM4NDM4WXVnN21xelpENzVqQTY1SUxoUHd6dnlwSnFYMkhSRU1IU0wxWTd5YkIwZnFTb01EOHdIUjMzSE96K01TeFE3U2ZyYmJ3YmhMaUJ1WEpLT0NMWkVtcmlYNGpHMjA0TmZqM3JWb1VUbFkxOUFweXdBRm4xT2xPeVNnQVQyUjRzRFVyOTZGaTBxL2sraVZtaExFVlhWbjh6dUlWcEI5YmVZZmh2SURWR0dNUkJSQ0xvYWtMZzRycFZ2dVI1Y0JHVUtrNkxrYXVpS0Y1RXJtQTExTTc0VHFQZUVKdkdWME9tMm1idndFYW1IT3o3ZUhMb0grV2JkNmlTN3RvaVh6NjROclNMbFJYU0dpbTlnRklRNlYxYzMxNERaLytXYzNn&trace_id=6eca6d5273330b92f58f8f676ba83801/7858673801004886773
+
 #EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0LTTaxyG5BeJSXWcrw3O0hn-V3rtVPcyVOA&usqp=CAU" group-title="AFF U23",VTV  
 http://171.238.181.52:18080/194_1.m3u8?AdaptiveType=HLS
 
