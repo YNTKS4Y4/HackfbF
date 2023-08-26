@@ -27,7 +27,7 @@ https://github.com/thefirefox12537/streams/raw/master/nagaswarapop.m3u8
 https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0LTTaxyG5BeJSXWcrw3O0hn-V3rtVPcyVOA&usqp=CAU" group-title="AFF U23",LIVE EVENT
-https://1123139281.cdn.khmer-hd.com/phoHD/playlist.m3u8
+https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0LTTaxyG5BeJSXWcrw3O0hn-V3rtVPcyVOA&usqp=CAU" group-title="AFF U23",SCTV
 https://kametv.my.id/putar/digital/sctv.php
