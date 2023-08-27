@@ -69,7 +69,6 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 
-
 #EXTINF:0 tvg-logo="https://i.ibb.co/gdptwyT/sctv.png" group-title="nasional" tvg-id="SCTV.id",SCTV
 http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.m3u8
 
@@ -77,6 +76,50 @@ http://edge.linknetott.swiftserve.com/channelgroup3/cg357production/ch395/index.
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
 https://nxanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#EXTINF:-1 tvg-id="ChampionsTV1.id" tvg-logo="https://i.imgur.com/KHTvpw8.png" group-title="SPORT PREMIUM",Champions TV 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctv1
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+https://etslive-app.vidio.com/live/6685/master.m3u8?auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdmovVDlNYmVObVdUWnVoMGpFVjkzdklyVWdoZXBob2NpbHcrOGRybC9ERnB0YWhwV2NJMXNocU9KY3I1SUpYRDVzOTNaSVBrY21veUlaTFNOTVlRSXRUazlzR1N4NERUVHc1cGRBRm5EQTBOZDVERDNvcjBuYUZVdzhYOTFoVk9zcHU1SzE0dGhPUVREY0pEbjU4UmhydDZsZ0lRaE12QkRIRFYyenZKK01SRUlxN0lxT0NPcURVMTBidWhGVk1HRWNML3JFNExXOWhSeUJFWEZCcDZQbzgzZHN4QTEvZFJRR0N0R2x3eExWTE8wYytDOGJXYmFDbFp3OE5xZ3F2VFpZcTNCQ2dvT2poZisxcGgrTnRPSXNpUXRsVklJN3BJZ0tqNHF2YUpxMFk4M2pLNHh3ZUVCSzhzbUdWekt1ZTIyQ2l2a0JnZVI2Wm8rTnV4ODF2Sm9Sb1AvZ0hTYW1QOW5VMmZtdnVEQ015dmE2dTJTS3IxWjhvdzlLSFNRMnByWmZrNUJsR3pNOVBmQjhOdTlhdFFqenVHMVpxTm8wTmdOK2IrTHNyV0p2dCt4SThmMmIzMEk1aGdsSk1qMTBCcS9OL1hiVFdHc1VGS3ZDb0RLY2R3NWNCTjJaNVF3TEpOM3RCRUY1QVNzTTNJQWhqV3B5cU9XWlN2Q080dkVuRWI1ZFA0MkZmWDJNczVGcDFUcGVBVzl3K0c3YVRvT0cyakVHZFJSWS9RQVYyaTFKVDZQbGpiS0QxTHJ1cnhFOHNwbk56NXovcUl5TVlsc0o4RkUxbTh1NkUyNEpiOW53dmx0ckR6Z2o4WDY0aXJ0VmsreGk1bThLT3poc0JyY3RaSlJJU0YybnNFRDZnZERVeGlWRVM5UXZxZzZQK2Q5TGE4RDEzUGVHSzdoUUZIREU5U2RuK0EvRndVOU9Zd095QTRjc2xMNlpCcUZTYjBQejlYckR3WnEwdz09&trace_id=b471d88bf6b80525524bee1e99a91fd2/16981158194378840143
+
+EXTINF:-1 tvg-id="ChampionsTV2.id" tvg-logo="https://i.imgur.com/aYtK6vP.png" group-title="SPORT PREMIUM",Champions TV 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctv2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://app-etslive-2.vidio.com/live/6686/master.m3u8?auth=&trace_id=b471d88bf6b80525524bee1e99a91fd2/16981158194378840143
+
+#EXTINF:-1 tvg-id="ChampionsTV3.id" tvg-logo="https://i.imgur.com/1LcXHjR.png" group-title="SPORT PREMIUM",Champions TV 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=ctv3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://app-etslive-2.vidio.com/live/6786/master.m3u8?auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdmovVDlNYmVObVdUWnVoMGpFVjkzdklyVWdoZXBob2NpbHcrOGRybC9ERnB0YWhwV2NJMXNocU9KY3I1SUpYRDVzOTNaSVBrY21veUlaTFNOTVlRSXRUazlzR1N4NERUVHc1cGRBRm5EQTBOZDVERDNvcjBuYUZVdzhYOTFoVk9zcHU1SzE0dGhPUVREY0pEbjU4UmhydDZsZ0lRaE12QkRIRFYyenZKK01SRUlxN0lxT0NPcURVMTBidWhGVk1HRWNML3JFNExXOWhSeUJFWEZCcDZQbzgzZHN4QTEvZFJRR0N0R2x3eExWTE8wYytDOGJXYmFDbFp3OE5xZ3F2VFpZcTNCQ2dvT2poZisxcGgrTnRPSXNpUXRsVklJN3BJZ0tqNHF2YUpxMFk4M2pLNHh3ZUVCSzhzbUdWekt1ZTIyQ2l2a0JnZVI2Wm8rTnV4ODF2Sm9Sb1AvZ0hTYW1QOW5VMmZtdnVEQ015dmE2dTJTS3IxWjhvdzlLSFNRMnByWmZrNUJsR3pNOVBmQjhOdTlhdFFqenVHMVpxTm8wTmdOK2IrTHNyV0p2dCt4SThmMmIzMEk1aGdsSk1qMTBCcS9OL1hiVFdHc1VGS3ZDb0RLY2R3NWNCTjJaNVF3TEpOM3RCRUY1QVNzTTNJQWhqV3B5cU9XWlN2Q080dkVuRWI1ZFA0MkZmWDJNczVGcDFUcGVBVzl3K0c3YVRvT0cyakVHZFJSWS9RQVYyaTFKVDZQbGpiS0QxTHJ1cnhFOHNwbk56NXovcUl5TVlsc0o4RkUxbTh1NkUyNEpiOW53dmx0ckR6Z2o4WDY0aXJ0VmsreGk1bThLT3poc0JyY3RaSlJJU0YybnNFRDZnZERVeGlWRVM5UXZxZzZQK2Q5TGE4RDEzUGVHSzdoUUZIREU5U2RuK0EvRndVOU9Zd095QTRjc2xMNlpCcUZTYjBQejlYckR3WnEwdz09&trace_id=b471d88bf6b80525524bee1e99a91fd2/16981158194378840143
+
+#EXTINF:-1 tvg-id="ChampionsTV5.id" tvg-logo="https://i.imgur.com/xtRvoj9.png" group-title="SPORT PREMIUM",Champions TV 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=cham5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://app-etslive-2.vidio.com/live/9182/master.m3u8?auth=&trace_id=b471d88bf6b80525524bee1e99a91fd2/16981158194378840143
+
+#EXTINF:-1 tvg-id="ChampionsTV6.id" tvg-logo="https://i.imgur.com/dnQiPdp.png" group-title="SPORT PREMIUM",Champions TV 6
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=http://152.69.217.167/vn360sport/vidio_key.php?c=cham6
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://app-etslive-2.vidio.com/live/9183/master.m3u8?auth=&trace_id=b471d88bf6b80525524bee1e99a91fd2/16981158194378840143
+
+#EXTINF: -1 tvg-logo="https://www.apple.com/v/apple-tv-plus/ae/images/meta/apple-tv__e7aqjl2rqzau_og.png" group-title="SPORT PREMIUM",APPLE TV 02
+http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/89786
+#EXTINF: -1 tvg-logo="https://www.apple.com/v/apple-tv-plus/ae/images/meta/apple-tv__e7aqjl2rqzau_og.png" group-title="SPORT PREMIUM",APPLE TV 02
+http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/89787
+#EXTINF: -1 tvg-logo="https://www.apple.com/v/apple-tv-plus/ae/images/meta/apple-tv__e7aqjl2rqzau_og.png" group-title="SPORT PREMIUM",APPLE TV 03
+http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/89788
+#EXTINF: -1 tvg-logo="https://www.apple.com/v/apple-tv-plus/ae/images/meta/apple-tv__e7aqjl2rqzau_og.png" group-title="SPORT PREMIUM",APPLE TV 04
+http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/89789
 
 #EXTINF:-1 group-title="SPORT PREMIUM" tvg-id="truesports2.th" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/8c23b890-f972-11e9-9d60-a7e46cdf4330_320.png",True Sports 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
