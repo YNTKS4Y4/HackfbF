@@ -23,26 +23,6 @@ https://github.com/thefirefox12537/streams/raw/master/nagaswaradensdut.m3u8
 #EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSalsWGIXaCcEIyIO7YmTCQy4oG66HJv8IG7g&usqp=CAU" group-title="LIVE 24 JAM",NAGASWARA POP
 https://github.com/thefirefox12537/streams/raw/master/nagaswarapop.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0LTTaxyG5BeJSXWcrw3O0hn-V3rtVPcyVOA&usqp=CAU" group-title="AFF U23",TRUE SPORT 2
-https://sport.livedoomovies.com:4432/02_2sporthd2_720p/chunklist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0LTTaxyG5BeJSXWcrw3O0hn-V3rtVPcyVOA&usqp=CAU" group-title="AFF U23",LIVE EVENT
-https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0LTTaxyG5BeJSXWcrw3O0hn-V3rtVPcyVOA&usqp=CAU" group-title="AFF U23",SCTV
-https://kametv.my.id/putar/digital/sctv.php
-
-#EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0LTTaxyG5BeJSXWcrw3O0hn-V3rtVPcyVOA&usqp=CAU" group-title="AFF U23",SCTV 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=N2NlNGIzZDgtMDIzYi0zZjU4LTg3ZDMtZjVjNDJlMzQwNjJh
-https://production-drm-vidio-com-event-8.akamaized.net/out/v1/5bfe18929905440498f6eb7504c4028f/index.mpd
-
-#EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0LTTaxyG5BeJSXWcrw3O0hn-V3rtVPcyVOA&usqp=CAU" group-title="AFF U23",VTV  
-http://171.238.181.52:18080/194_1.m3u8?AdaptiveType=HLS
-
-#EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0LTTaxyG5BeJSXWcrw3O0hn-V3rtVPcyVOA&usqp=CAU" group-title="AFF U23",SUKAN RTM   
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-
 #EXTINF:0 tvg-id="IndoiarIDFbHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx0syEHE7DbzWTfL2g1UvYAnECr7BNrDy57Q&usqp=CAU" group-title="BRI LIGA 1",INDOSIAR HD
 http://103.166.27.2:800/play/a016
 #http://103.150.197.226:25461/home_smile_lokal/Wdk8VzyYTG/197
