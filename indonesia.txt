@@ -93,6 +93,12 @@ https://nxanv-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #EXTINF: -1 tvg-logo="https://www.apple.com/v/apple-tv-plus/ae/images/meta/apple-tv__e7aqjl2rqzau_og.png" group-title="SPORT PREMIUM",APPLE TV 01
 http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/89786
+#EXTINF: -1 tvg-logo="https://www.apple.com/v/apple-tv-plus/ae/images/meta/apple-tv__e7aqjl2rqzau_og.png" group-title="SPORT PREMIUM",APPLE TV 02
+http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/89787
+#EXTINF: -1 tvg-logo="https://www.apple.com/v/apple-tv-plus/ae/images/meta/apple-tv__e7aqjl2rqzau_og.png" group-title="SPORT PREMIUM",APPLE TV 03
+http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/89788
+#EXTINF: -1 tvg-logo="https://www.apple.com/v/apple-tv-plus/ae/images/meta/apple-tv__e7aqjl2rqzau_og.png" group-title="SPORT PREMIUM",APPLE TV 04
+http://joao-1-us.mainbkonline.shop:80/337385800219/440108267491/89789
 
 #EXTINF:-1 tvg-id="" tvg-name="US: Fox Deportes" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/fb81f6d360b9559d67705424e80b7ec9.png" group-title="SPORT PREMIUM",Fox Deportes
 http://37.49.229.56:8080/stadnik/6a627b52a9/14820
