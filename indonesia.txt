@@ -211,7 +211,7 @@ https://webudit.cdnhks.lol/lb/premium124/index.m3u8
 #EXTVLCOPT:http-referrer=https://streamservicehd.click/
 https://webudit.cdnhks.lol/lb/premium125/index.m3u8
 
-#EXTINF:-1 group-title="LaLiga" tvg-id="championstv3.id" tvg-logo="https://i.imgur.com/xVwVIj6.png",VIDIO
+#EXTINF:-1 group-title="LaLiga" tvg-id="championstv3.id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9r-scyW7m8n9nODmjP3D8bYZTKTy1hckyFg&usqp=CAU",VIDIO
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=1bc3e6cc570d8baf7edd5d68b1bea0c9:f91ed9a52cc02e932551c9cc97df0cdc
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
