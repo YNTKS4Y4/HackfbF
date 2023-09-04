@@ -151,17 +151,17 @@ http://z.xzzz.vip:80/Richard/Richard123/636925
 http://z.xzzz.vip:80/Richard/Richard123/636926
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGvRmqlfvB0oKJPpfBcz8xPB2fiSbaTWg-AA&usqp=CAU" group-title="SPORT PREMIUM", PEACOCK PL
-http://z.xzzz.vip:80/play/live.php?mac=00:1A:79:E6:B8:8A&stream=1032456&extension=ts&play_token=cvcqACl3FV
+http://z.xzzz.vip:80/play/live.php?mac=00:1A:79:00:00:01&stream=1032456&extension=ts&play_token=cvcqACl3FV
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6h5ZSWmEWH7UqKXQ4D9yFKOBQyPKj4gQLig&usqp=CAU" group-title="SPORT PREMIUM", PEACOCK 1
-http://z.xzzz.vip:80/play/live.php?mac=00:1A:79:E6:B8:8A&stream=1032455&extension=ts&play_token=cvcqACl3FV
+http://z.xzzz.vip:80/play/live.php?mac=00:1A:79:00:00:01&stream=1032455&extension=ts&play_token=cvcqACl3FV
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6h5ZSWmEWH7UqKXQ4D9yFKOBQyPKj4gQLig&usqp=CAU" group-title="SPORT PREMIUM", PEACOCK 2
-http://z.xzzz.vip:80/play/live.php?mac=00:1A:79:E6:B8:8A&stream=1032454&extension=ts&play_token=cvcqACl3FV
+http://z.xzzz.vip:80/play/live.php?mac=00:1A:79:00:00:01&stream=1032454&extension=ts&play_token=cvcqACl3FV
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6h5ZSWmEWH7UqKXQ4D9yFKOBQyPKj4gQLig&usqp=CAU" group-title="SPORT PREMIUM", PEACOCK 3
-http://z.xzzz.vip:80/play/live.php?mac=00:1A:79:E6:B8:8A&stream=1032453&extension=ts&play_token=cvcqACl3FV
+http://z.xzzz.vip:80/play/live.php?mac=00:1A:79:00:00:01&stream=1032453&extension=ts&play_token=cvcqACl3FV
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6h5ZSWmEWH7UqKXQ4D9yFKOBQyPKj4gQLig&usqp=CAU" group-title="SPORT PREMIUM", PEACOCK 4
-http://z.xzzz.vip:80/play/live.php?mac=00:1A:79:E6:B8:8A&stream=1032452&extension=ts&play_token=cvcqACl3FV
+http://z.xzzz.vip:80/play/live.php?mac=00:1A:79:00:00:01&stream=1032452&extension=ts&play_token=cvcqACl3FV
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6h5ZSWmEWH7UqKXQ4D9yFKOBQyPKj4gQLig&usqp=CAU" group-title="SPORT PREMIUM", PEACOCK 5
-http://z.xzzz.vip:80/play/live.php?mac=00:1A:79:E6:B8:8A&stream=1032451&extension=ts&play_token=cvcqACl3FV
+http://z.xzzz.vip:80/play/live.php?mac=00:1A:79:00:00:01&stream=1032451&extension=ts&play_token=cvcqACl3FV
 
 #EXTINF:-1 tvg-id="" tvg-name="US: Fox Deportes" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/fb81f6d360b9559d67705424e80b7ec9.png" group-title="SPORT PREMIUM",Fox Deportes
 http://37.49.229.56:8080/stadnik/6a627b52a9/14820
