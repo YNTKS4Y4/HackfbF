@@ -317,6 +317,7 @@ http://37.49.229.56:8080/stadnik/6a627b52a9/157557
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
 https://hometv.pw/my/stream/dash-wv/linear/2604/default_primary.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA" tvg-logo="https://i.ibb.co/tYYLtDK/Arena.jpg" group-title="SPORT PREMIUM",ASTRO ARENA 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/5057
