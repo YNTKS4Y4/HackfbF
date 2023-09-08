@@ -8,9 +8,6 @@ https://github.com/YNTKS4Y4/IPTV/raw/main/20230629_1842091.mp4
 #EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4mD1CKTu0Eya-Ml2VSM-oyPQr8xZe0aBU6A&usqp=CAU" group-title="INFO",KHUSUS DONATUR
 https://github.com/YNTKS4Y4/IPTV/raw/main/TERIMAKASIH%20UDH%20DONASI.mp4
 
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJm_ckmQQ70Dr7P7vNjjOAANMmCNJtZ3I6IQ&usqp=CAU" group-title="U23",TIMNAS U23
-https://etus.link/timmasvsturkministan
-
 #EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJm_ckmQQ70Dr7P7vNjjOAANMmCNJtZ3I6IQ&usqp=CAU" group-title="U23",TIMNAS U23 
 https://obevcimanyd179314182.thapcam.link/live/may12/playlist.m3u8
 
