@@ -9,7 +9,7 @@ https://github.com/YNTKS4Y4/IPTV/raw/main/20230629_1842091.mp4
 https://github.com/YNTKS4Y4/IPTV/raw/main/TERIMAKASIH%20UDH%20DONASI.mp4
 
 #EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4XAaUXqdwDRGndmoujyLEx4XJEWCY39cCYg&usqp=CAU" group-title="LIVE TIMNAS",INDONESIA VS CHINA TAIPE
-https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8
+https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqRNoxczIidD9W5qxKqu7bubecl-4_MP2GDQ&usqp=CAU" group-title="LIVE 24 JAM",AQUARIUS MUSIKINDO
 https://raw.githubusercontent.com/thefirefox12537/streams/master/akuarius.m3u8
