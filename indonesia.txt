@@ -8,6 +8,9 @@ https://github.com/YNTKS4Y4/IPTV/raw/main/20230629_1842091.mp4
 #EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4mD1CKTu0Eya-Ml2VSM-oyPQr8xZe0aBU6A&usqp=CAU" group-title="INFO",KHUSUS DONATUR
 https://github.com/YNTKS4Y4/IPTV/raw/main/TERIMAKASIH%20UDH%20DONASI.mp4
 
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4XAaUXqdwDRGndmoujyLEx4XJEWCY39cCYg&usqp=CAU" group-title="LIVE TIMNAS",INDONESIA VS CHINA TAIPE
+https://1123139281.cdn.khmer-hd.com/may3HD/chunks.m3u8
+
 #EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqRNoxczIidD9W5qxKqu7bubecl-4_MP2GDQ&usqp=CAU" group-title="LIVE 24 JAM",AQUARIUS MUSIKINDO
 https://raw.githubusercontent.com/thefirefox12537/streams/master/akuarius.m3u8
 
@@ -547,10 +550,10 @@ http://37.49.229.56:8080/stadnik/6a627b52a9/157558
 #EXTINF:0 tvg-id="AstroSuperSport5.my" tvg-name="astro supersport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT PREMIUM",Astro SuperSport 5
 http://37.49.229.56:8080/stadnik/6a627b52a9/287792
 
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png" group-title="nasional", MOJI TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="nasional", MOJI TV
 http://37.49.229.56:8080/stadnik/6a627b52a9/298550
 
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png" group-title="nasional", MOJI TV FHD
+#EXTINF:0 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="nasional", MOJI TV FHD
 https://kametv.my.id/putar/digital/moji.php
 
 #EXTINF:0 group-title="nasional" tvg-logo="https://hometv.pw/logo/lokal/trans7.jpg",Trans 7
