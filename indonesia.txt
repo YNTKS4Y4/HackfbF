@@ -12,6 +12,9 @@ https://github.com/YNTKS4Y4/IPTV/raw/main/TERIMAKASIH%20UDH%20DONASI.mp4
 https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4XAaUXqdwDRGndmoujyLEx4XJEWCY39cCYg&usqp=CAU" group-title="LIVE TIMNAS",INDONESIA VS CHINA TAIPE 
+https://obevcimanyd179314182.thapcam.link/live/may3FHD/playlist.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4XAaUXqdwDRGndmoujyLEx4XJEWCY39cCYg&usqp=CAU" group-title="LIVE TIMNAS",INDONESIA VS CHINA TAIPE 
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1694283722/ei/amP8ZKWBHfTk2roP25S7yAI/ip/223.255.227.10/id/TNM36T45mVg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/siu/1/spc/UWF9fyIdVcYVb4QXM4ruzjMNVigbVfbA0oaVts6JhVEnpKdck4I6OiE/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPX25WAuPltDxBshCDxp-K61vHdrrZg4VyOcAPceZALAAiBDf6IV3sKmA4klBrw3kszjNuY8-uzqa1-ZgUs1srtHKQ%3D%3D/file/index.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="INDX" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqRNoxczIidD9W5qxKqu7bubecl-4_MP2GDQ&usqp=CAU" group-title="LIVE 24 JAM",AQUARIUS MUSIKINDO
