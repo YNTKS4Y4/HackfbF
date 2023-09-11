@@ -1226,7 +1226,7 @@ https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccercha
 #EXTINF:0 group-title="SPORT PREMIUM" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png",Unifi Sports 1
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 
-EXTINF:0 tvg-id="MuslimTV.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOKVi9w4GShzFxC-ISRwtAYzvNI3KyZyfw6Q&usqp=CAU" group-title="Religi",Muslim TV
+#EXTINF:0 tvg-id="MuslimTV.Id" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOKVi9w4GShzFxC-ISRwtAYzvNI3KyZyfw6Q&usqp=CAU" group-title="Religi",Muslim TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 https://nyanv-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
