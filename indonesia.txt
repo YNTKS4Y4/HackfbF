@@ -507,10 +507,10 @@ http://37.49.229.56:8080/stadnik/6a627b52a9/157558
 #EXTINF:0 tvg-id="AstroSuperSport5.my" tvg-name="astro supersport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPORT PREMIUM",Astro SuperSport 5
 http://37.49.229.56:8080/stadnik/6a627b52a9/287792
 
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png" group-title="nasional", MOJI TV
+#EXTINF:0 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="nasional", MOJI TV
 http://37.49.229.56:8080/stadnik/6a627b52a9/298550
 
-#EXTINF:0 tvg-logo="https://thumbor.prod.vidiocdn.com/g7gTjD2Il1GI4DJULOZ1cv6NSj4=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/206/1823dc.png" group-title="nasional", MOJI TV FHD
+#EXTINF:0 tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="nasional", MOJI TV FHD
 https://kametv.my.id/putar/digital/moji.php
 
 #EXTINF:0 group-title="nasional" tvg-logo="https://hometv.pw/logo/lokal/trans7.jpg",Trans 7
