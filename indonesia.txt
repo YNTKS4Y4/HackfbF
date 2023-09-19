@@ -9,10 +9,10 @@ https://github.com/YNTKS4Y4/IPTV/raw/main/20230629_1842091.mp4
 https://github.com/YNTKS4Y4/IPTV/raw/main/TERIMAKASIH%20UDH%20DONASI.mp4
 
 #EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIJaMDinQzSVlef_bsuA6fLDRpvJcJZ9atow&usqp=CAU" group-title="TIMNAS LIVE",INDONESIA VS KYRGYZSTAN
-https://179720687.global.cdnfastest.com/live/sd-k82rekhwzjzprep/chunklist_w1701855514.m3u8
+https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIJaMDinQzSVlef_bsuA6fLDRpvJcJZ9atow&usqp=CAU" group-title="TIMNAS LIVE",INDONESIA VS KYRGYZSTAN
-https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/playlist.m3u8
+https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
 
 #EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIJaMDinQzSVlef_bsuA6fLDRpvJcJZ9atow&usqp=CAU" group-title="TIMNAS LIVE",INDONESIA VS KYRGYZSTAN
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
