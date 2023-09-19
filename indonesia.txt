@@ -8,6 +8,8 @@ https://github.com/YNTKS4Y4/IPTV/raw/main/20230629_1842091.mp4
 #EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4mD1CKTu0Eya-Ml2VSM-oyPQr8xZe0aBU6A&usqp=CAU" group-title="INFO",KHUSUS DONATUR
 https://github.com/YNTKS4Y4/IPTV/raw/main/TERIMAKASIH%20UDH%20DONASI.mp4
 
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4Id1mn7FpBNOfBjg9c_zAtF47EIUtBvaSSA&usqp=CAU" group-title="TIMNAS LIVE",indonesia vs kyrgyzstan
+https://179720687.global.cdnfastest.com/live/sd-k82rekhwzjzprep/chunklist_w1701855514.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX1joIMB2-5U56NA-XW4WlOT2IG5DaKewQeA&usqp=CAU" group-title="LIVE EVENT", LIVE SPORT
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
