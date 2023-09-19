@@ -8,16 +8,14 @@ https://github.com/YNTKS4Y4/IPTV/raw/main/20230629_1842091.mp4
 #EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4mD1CKTu0Eya-Ml2VSM-oyPQr8xZe0aBU6A&usqp=CAU" group-title="INFO",KHUSUS DONATUR
 https://github.com/YNTKS4Y4/IPTV/raw/main/TERIMAKASIH%20UDH%20DONASI.mp4
 
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIJaMDinQzSVlef_bsuA6fLDRpvJcJZ9atow&usqp=CAU" group-title="TIMNAS LIVE",INDONESIA VS KYRGYZSTAN
-https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://github.com/YNTKS4Y4/IPTV/blob/main/china_thaipeVS_indonesia.jpg?raw=true" group-title="TIMNAS LIVE",INDONESIA VS KYRGYZSTAN
+https://github.com/YNTKS4Y4/IPTV/raw/main/CHINA_THAIPEvsINDONESIA.mp4
 
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIJaMDinQzSVlef_bsuA6fLDRpvJcJZ9atow&usqp=CAU" group-title="TIMNAS LIVE",INDONESIA VS KYRGYZSTAN
-https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://github.com/YNTKS4Y4/IPTV/blob/main/china_thaipeVS_indonesia.jpg?raw=true" group-title="TIMNAS LIVE",INDONESIA VS KYRGYZSTAN
+https://github.com/YNTKS4Y4/IPTV/raw/main/CHINA_THAIPEvsINDONESIA.mp4
 
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIJaMDinQzSVlef_bsuA6fLDRpvJcJZ9atow&usqp=CAU" group-title="TIMNAS LIVE",INDONESIA VS KYRGYZSTAN
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-https://nxanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd?token_zulkarnaien66
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://github.com/YNTKS4Y4/IPTV/blob/main/china_thaipeVS_indonesia.jpg?raw=true" group-title="TIMNAS LIVE",INDONESIA VS KYRGYZSTAN
+https://github.com/YNTKS4Y4/IPTV/raw/main/CHINA_THAIPEvsINDONESIA.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX1joIMB2-5U56NA-XW4WlOT2IG5DaKewQeA&usqp=CAU" group-title="LIVE EVENT", LIVE SPORT
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
