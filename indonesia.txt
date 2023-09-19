@@ -8,13 +8,13 @@ https://github.com/YNTKS4Y4/IPTV/raw/main/20230629_1842091.mp4
 #EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4mD1CKTu0Eya-Ml2VSM-oyPQr8xZe0aBU6A&usqp=CAU" group-title="INFO",KHUSUS DONATUR
 https://github.com/YNTKS4Y4/IPTV/raw/main/TERIMAKASIH%20UDH%20DONASI.mp4
 
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://github.com/YNTKS4Y4/IPTV/blob/main/china_thaipeVS_indonesia.jpg?raw=true" group-title="TIMNAS LIVE",INDONESIA VS KYRGYZSTAN
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://github.com/YNTKS4Y4/IPTV/blob/main/china_thaipeVS_indonesia.jpg?raw=true" group-title="TIMNAS LIVE",15:00 WIB | CHINA TAIPEI VS INDONESIA
 https://github.com/YNTKS4Y4/IPTV/raw/main/CHINA_THAIPEvsINDONESIA.mp4
 
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://github.com/YNTKS4Y4/IPTV/blob/main/china_thaipeVS_indonesia.jpg?raw=true" group-title="TIMNAS LIVE",INDONESIA VS KYRGYZSTAN
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://github.com/YNTKS4Y4/IPTV/blob/main/china_thaipeVS_indonesia.jpg?raw=true" group-title="TIMNAS LIVE",15:00 WIB | CHINA TAIPEI VS INDONESIA
 https://github.com/YNTKS4Y4/IPTV/raw/main/CHINA_THAIPEvsINDONESIA.mp4
 
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://github.com/YNTKS4Y4/IPTV/blob/main/china_thaipeVS_indonesia.jpg?raw=true" group-title="TIMNAS LIVE",INDONESIA VS KYRGYZSTAN
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://github.com/YNTKS4Y4/IPTV/blob/main/china_thaipeVS_indonesia.jpg?raw=true" group-title="TIMNAS LIVE",15:00 WIB | CHINA TAIPEI VS INDONESIA
 https://github.com/YNTKS4Y4/IPTV/raw/main/CHINA_THAIPEvsINDONESIA.mp4
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX1joIMB2-5U56NA-XW4WlOT2IG5DaKewQeA&usqp=CAU" group-title="LIVE EVENT", LIVE SPORT
