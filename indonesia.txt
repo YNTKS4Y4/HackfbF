@@ -469,6 +469,36 @@ https://sporttv2.wapka.co/football8-sd/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://bd1.thevang.site/
 https://sporttv2.wapka.co/football8-sd/playlist.m3u8
 
+#EXTINF:-1 group-title="SPORT PREMIUM" tvg-id="ARENA SPORT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dARwtGnvgT13KMBLPEU-fzdc_zkDTLMqsA&usqp=CAU",ARENA SPORT 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls7/arena1.mpd
+
+#EXTINF:-1 group-title="SPORT PREMIUM" tvg-id="ARENA SPORT 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dARwtGnvgT13KMBLPEU-fzdc_zkDTLMqsA&usqp=CAU",ARENA SPORT 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls7/arena2.mpd
+
+#EXTINF:-1 group-title="SPORT PREMIUM" tvg-id="ARENA SPORT 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dARwtGnvgT13KMBLPEU-fzdc_zkDTLMqsA&usqp=CAU",ARENA SPORT 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls7/arena3.mpd
+
+#EXTINF:-1 group-title="SPORT PREMIUM" tvg-id="ARENA SPORT 4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dARwtGnvgT13KMBLPEU-fzdc_zkDTLMqsA&usqp=CAU",ARENA SPORT 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls7/arena4.mpd
+
+#EXTINF:-1 group-title="SPORT PREMIUM" tvg-id="ARENA SPORT 5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dARwtGnvgT13KMBLPEU-fzdc_zkDTLMqsA&usqp=CAU",ARENA SPORT 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls7/arena5.mpd
+
+#EXTINF:-1 group-title="SPORT PREMIUM" tvg-id="ARENA SPORT 6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dARwtGnvgT13KMBLPEU-fzdc_zkDTLMqsA&usqp=CAU",ARENA SPORT 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls7/arena6.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA" tvg-logo="https://i.ibb.co/tYYLtDK/Arena.jpg" group-title="SPORT PREMIUM",ASTRO ARENA 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/2604
