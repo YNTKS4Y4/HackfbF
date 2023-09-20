@@ -352,7 +352,7 @@ https://ssc-1-on-prem-ak.akamaized.net/out/v1/ec938957da2849879f0cfac7e309ff38/i
 #KODIPROP:inputstream.adaptive.license_key=b8763ccad3d146c2b15f8a77a4d6d733:ab87f6ae46b2dc187bd94cbb48cfe074
 https://ssc-2-on-prem-ak.akamaized.net/out/v1/d9a2acf5f809461ca47714440fcbc0f4/index.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="ss3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamQlYUMT05jaKHYqex1YVKzjydH0sGuwMIA&usqp=CAU" group-title="SPORT PREMIUM",RSL
+#EXTINF:0 tvg-id="" tvg-name="ss3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamQlYUMT05jaKHYqex1YVKzjydH0sGuwMIA&usqp=CAU" group-title="Liga Roshn Saudi",RSL
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3af2aa1da4a41cbb37b1dbe43b46782:b6b74f29f6d1501b989c96aec4dae599
 https://ssc-3-on-prem-ak.akamaized.net/out/v1/ad2b1abef05c419aa6a4e6aee6d269a2/index.mpd
