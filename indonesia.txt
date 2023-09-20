@@ -1704,25 +1704,25 @@ https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-042/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-041/stream.mpd
 
-#EXTINF:-1 tvg-id="beinsports5.us" tvg-name="US: beIN Sports 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/143beddb5ede0e1f1c962d27225f73e8.png" group-title="SPORT PREMIUM",beIN English 5
+#EXTINF:-1 tvg-id="beinsports5.us" tvg-name="US: beIN Sports 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/143beddb5ede0e1f1c962d27225f73e8.png" group-title="SPORT PREMIUM",beIN Sports English 5
 http://37.49.230.48:8080/stadnik/6a627b52a9/151026
 
-#EXTINF:-1 group-title="SPORT PREMIUM" tvg-id="PrimaSport" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg" ,PRIMA SPORT 1
+#EXTINF:-1 group-title="SPORT PREMIUM" tvg-id="PrimaSport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwTaFEEnPRH0cqFCTK_NwOa5CWug3smqTMQ&usqp=CAU" ,PRIMA SPORT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 https://webudit.webdicdn.lol/lb/premium583/index.m3u8
 
-#EXTINF:-1 group-title="SPORT PREMIUM" tvg-id="PrimaSport2" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg" ,PRIMA SPORT 2
+#EXTINF:-1 group-title="SPORT PREMIUM" tvg-id="PrimaSport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwTaFEEnPRH0cqFCTK_NwOa5CWug3smqTMQ&usqp=CAU" ,PRIMA SPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 https://webudit.webdicdn.lol/lb/premium584/index.m3u8
 
-#EXTINF:-1 group-title="SPORT PREMIUM" tvg-id="PrimaSport2" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg" ,PRIMA SPORT 4
+#EXTINF:-1 group-title="SPORT PREMIUM" tvg-id="PrimaSport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwTaFEEnPRH0cqFCTK_NwOa5CWug3smqTMQ&usqp=CAU" ,PRIMA SPORT 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 https://webudit.webdicdn.lol/lb/premium585/index.m3u8
 
-#EXTINF:-1 group-title="SPORT PREMIUM" tvg-id="PrimaSport2" tvg-logo="https://cdn.wapka.io/00arml/1dcc34cef9b8e1df1b66b7d2bb431f6a/screenshot_2023-08-30-14-03-50-02_d9722a3191d1befe545c11192a9ddcff.jpg" ,PRIMA SPORT 3
+#EXTINF:-1 group-title="SPORT PREMIUM" tvg-id="PrimaSport2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwTaFEEnPRH0cqFCTK_NwOa5CWug3smqTMQ&usqp=CAU" ,PRIMA SPORT 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://widevine.licenses4.me/ 
 https://webudit.webdicdn.lol/lb/premium586/index.m3u8
