@@ -8,16 +8,14 @@ https://github.com/YNTKS4Y4/IPTV/raw/main/20230629_1842091.mp4
 #EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4mD1CKTu0Eya-Ml2VSM-oyPQr8xZe0aBU6A&usqp=CAU" group-title="INFO",KHUSUS DONATUR
 https://github.com/YNTKS4Y4/IPTV/raw/main/TERIMAKASIH%20UDH%20DONASI.mp4
 
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://github.com/YNTKS4Y4/IPTV/blob/main/china_thaipeVS_indonesia.jpg?raw=true" group-title="TIMNAS LIVE",15:00 WIB | CHINA TAIPEI VS INDONESIA
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
-https://nyanv-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd?token_zulkarnaien66
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp6L7n_qDuNsV55KjZaUd7Qvi4u_l2-toaoA&usqp=CAU" group-title="TIMNAS LIVE",15:00 WIB | KOREA UTARA VS INDONESIA
+https://github.com/YNTKS4Y4/IPTV/raw/main/INDONESIA_VS_KOREAUTARA.mp4
 
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://github.com/YNTKS4Y4/IPTV/blob/main/china_thaipeVS_indonesia.jpg?raw=true" group-title="TIMNAS LIVE",15:00 WIB | CHINA TAIPEI VS INDONESIA
-https://1123139281.cdn.khmer-hd.com/may2HD/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp6L7n_qDuNsV55KjZaUd7Qvi4u_l2-toaoA&usqp=CAU" group-title="TIMNAS LIVE",15:00 WIB | KOREA UTARA VS INDONESIA
+https://github.com/YNTKS4Y4/IPTV/raw/main/INDONESIA_VS_KOREAUTARA.mp4
 
-#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://github.com/YNTKS4Y4/IPTV/blob/main/china_thaipeVS_indonesia.jpg?raw=true" group-title="TIMNAS LIVE",15:00 WIB | CHINA TAIPEI VS INDONESIA
-https://video-lis1-1.xx.fbcdn.net/hvideo-prn-nha/_nc_cat-106/_nc_sr_t-4/v/rAScDfXGFrS9nC85qIIXvZRETzDY0xjL3bIiHkSrOsbt7pw/_nc_ohc-rGMhD80wFX4AX-8WwfL/live-dash/dash-abr-ibr-audio/152801117888035.mpd?ccb=2-4&ms=m_CTPAL&sc_t=1&oh=00_AfDPvltQNxDFpJp-wc2cpTf8WqKyM4SOj75LNfvEbyHckQ&oe=650DD3F4&dl=1
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp6L7n_qDuNsV55KjZaUd7Qvi4u_l2-toaoA&usqp=CAU" group-title="TIMNAS LIVE",15:00 WIB | KOREA UTARA VS INDONESIA
+https://github.com/YNTKS4Y4/IPTV/raw/main/INDONESIA_VS_KOREAUTARA.mp4
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
