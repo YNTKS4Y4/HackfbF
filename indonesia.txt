@@ -2024,7 +2024,7 @@ https://hometv.pw/deddy/smtr/lb/premium104/index.m3u8?|referer=https://widevine.
 https://nyanv-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd?token_zulkarnaien66?token_zulkarnaien66
 
 #EXTINF:0 tvg-id="TVRISport.id" tvg-logo="https://i.postimg.cc/B6zTJmWH/20220927-065210.png" group-title="SPORT PREMIUM",TVRI Sport
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8
+http://37.49.230.48:8080/stadnik/6a627b52a9/166686
 
 #EXTINF:0 tvg-id="TyCSports.id" tvg-name="TyC Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV3ViJii0uSIV3IsWA5wbc6zTzc_6p8ZOrMw&usqp=CAU" group-title="SPORT PREMIUM",TyC Sports
 http://37.49.230.48:8080/stadnik/6a627b52a9/8749
@@ -2158,8 +2158,6 @@ http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508148&extens
 
 #EXTINF:-1 tvg-logo="https://ewsat.com/img/BEIN_SPORTS_MAX.png" group-title="BEIN GROUP HD", BEIN MAX 5
 http://raptor-tv.com:80/play/live.php?mac=00:1a:79:c1:da:5b&stream=508147&extension=ts&play_token=YZuG3msMOE 
-
-
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQouMAQcMij_BOBQu11cpgiOh-yZWkEtt2oVg&usqp=CAU" group-title="BEIN GROUP HD", BEIN SPORT HABER
