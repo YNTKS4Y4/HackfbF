@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://raw.githubusercontent.com/Y4NT010/Y4N70/main/20230629_175105.png" group-title="INFO",HARAP DI BACA SAMPAI SELESAI
+https://github.com/Y4NT010/Y4N70/raw/main/km_20230924_1080p_30f_20230924_213159.mp4
+
+#EXTINF:0 tvg-id="" tvg-name="INFO" tvg-logo="https://raw.githubusercontent.com/Y4NT010/Y4N70/main/20230629_175105.png" group-title="INFO",NO SINYAL
+https://tv.qreatifku.my.id/nosignal.m3u8
